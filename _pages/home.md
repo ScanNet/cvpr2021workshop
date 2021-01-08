@@ -13,13 +13,19 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>ScanNet Indoor Scene Understanding Challenge</h1></center>
-    <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
-    <center>June 16, 2019; Hyatt Seaview B</center>
+    <center><h1>3rd ScanNet Indoor Scene Understanding Challenge</h1></center>
+    <center><h2>CVPR 2021 Workshop</h2></center>
+    <center>June 19, 2021</center>
   </div>
 </div>
 
 <hr>
+
+<!-- <br>
+  <center>
+  <h1 style="color:blue"><a href="https://youtu.be/S7wm806JQ1M">Join Us Here: Live Stream</a></h1>
+  </center>
+<br> -->
 
 <div class="row" id="intro">
   <div class="col-md-12">
@@ -111,18 +117,19 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
-        <tr>
+        <tr><td>TBD</td><td>TBD</td></tr>
+        <!-- <tr>
           <td>Poster Submission Deadline</td>
-          <td>May 15 2019</td>
+          <td>May 20 2020</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 20 2019</td>
+          <td>May 25 2020</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 16 2019</td>
-        </tr>
+          <td>June 19 2020</td>
+        </tr> -->
       </tbody>
     </table>
   </div>
@@ -150,46 +157,59 @@ acknowledgements: ""
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
-        <tr>
+        <tr><td>TBD</td><td>TBD</td></tr>
+        <!-- <tr>
           <td>Welcome and Introduction</td>
-          <td>1:45pm - 2:00pm</td>
+          <td>1:50pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
+          <td>Implicit Neural Representations: From Objects to 3D Scenes (Andreas Geiger)</td>
           <td>2:00pm - 2:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 (MinkowskiNet / Chris Choy) </td>
-          <td>2:30pm - 2:45pm</td>
+          <td>Winner Talk: KPConv (Hugues Thomas) </td>
+          <td>2:30pm - 2:40pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 (joint point-based / Hung-Yueh Chiang) </td>
-          <td>2:45pm - 3:00pm</td>
+          <td>Winner Talk: SparseConvNet (Benjamin Graham) </td>
+          <td>2:40pm - 2:50pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 (MTML / Jean Lahoud) </td>
+          <td>Winner Talk: PointGroup (Li Jiang) </td>
+          <td>2:50pm - 3:00pm</td>
+        </tr>
+        <tr>
+          <td>Break </td>
           <td>3:00pm - 3:15pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
-          <td>3:15pm - 3:30pm</td>
+          <td>Winner Talk: Sparse 3D Perception (Chris Choy) </td>
+          <td>3:15pm - 3:25pm</td>
         </tr>
         <tr>
-          <td>Break and poster session</td>
-          <td>3:30pm - 4:00pm</td>
+          <td>Winner Talk: 3D-MPA (Francis Engelmann) </td>
+          <td>3:25pm - 3:35pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Leo Guibas, <i>Deep Learning on 3D Point Clouds</i></td>
+          <td>Winner Talk: OccuSeg (Tian Zheng) </td>
+          <td>3:35pm - 3:45pm</td>
+        </tr>
+        <tr>
+          <td>Break </td>
+          <td>3:45pm - 4:00pm</td>
+        </tr>
+        <tr>
+          <td>CVPR is a Contemporary Art Exhibition (Yasutaka Furukawa)</td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Denver Dash, <i>Deep 3D: The New Frontier of Computer Vision</i></td>
+          <td>Semantic Scene Reconstruction from RGBD Scans (Thomas Funkhouser)</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
           <td>5:00pm - 5:30pm</td>
-        </tr>
+        </tr> -->
       </tbody>
     </table>
   </div>
@@ -202,32 +222,35 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
-    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/leo.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.cvlibs.net"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas_geiger.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively.
+      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is professor at the University of Tübingen and group leader at the Max Planck Institute for Intelligent Systems. Prior to this, he was a visiting professor at ETH Zürich and a research scientist at MPI-IS. He studied at KIT, EPFL and MIT and received his PhD degree in 2013 from the KIT. His research interests are at the intersection of 3D reconstruction, motion estimation, scene understanding and sensory-motor control. He maintains the KITTI vision benchmark.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.sfu.ca/~furukawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/yasu_furukawa.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. He is also on the faculty of the department of Bioengineering, and the Cognitive Science and Vision Science groups. During 2002-2004 he served as the Chair of the Computer Science Division, and as the Department Chair of EECS during 2004-2006 as well as 2016-2017. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park.
+      <b><a href="https://www.cs.sfu.ca/~furukawa/">Yasutaka Furukawa</a></b> is an associate professor of Computing Science at Simon Fraser University. Prior to SFU, he was an assistant professor at Washington University in St. Louis. Before WUSTL, he was a software engineer at Google. Before Google, he was a post-doctoral research associate at University of Washington. He worked with Prof. Seitz and Prof. Curless at University of Washington, and Rick Szeliski at Facebook (was at Microsoft Research). He completed his Ph.D. under the supervision of Prof. Ponce at Computer Science Department of University of Illinois at Urbana-Champaign in May 2008.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://occipital.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/denver.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.princeton.edu/~funk/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/tom_funkhouser.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://occipital.com/">Denver Dash</a></b> is the Director of Machine Learning at Occipital, where he focuses on combining machine learning with geometric vision to solve problems in 3d perception. In 2014 he became a Principal Engineer and approximately employee number 80 at Magic Leap, where he grew the Machine Learning team from scratch. In 2016 he became the Director of Gesture Recognition and led the development of the hand tracking system that was put into production for Magic Leap One. Prior to Magic Leap, Denver was a Sr. Research Scientist at the Intel Research lab at Carnegie Mellon University, where he served as adjunct faculty at the Robotics Institute, developing novel multi-modal approaches for computer vision and generative models for causal reasoning.
+      <b><a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a></b> is a senior research scientist at Google and the David
+M. Siegel Professor of Computer Science, Emeritus, at Princeton University.  He received a PhD in computer science from UC Berkeley in
+1993 and was a member of the technical staff at Bell Labs until 1997 before joining the faculty at Princeton.  For most of his career, he focused on research problems in computer graphics, including foundational work on 3D shape retrieval, analysis, and modeling.   His
+most recent research has focused on 3D scene understanding in computer vision. He has published more than 100 research papers and received several awards, including the ACM SIGGRAPH Computer Graphics Achievement Award, ACM SIGGRAPH Academy, ACM Fellow, NSF Career Award, Emerson Electric, E. Lawrence Keyes Faculty Advancement Award, Google Faculty Research Awards, University Council Excellence in Teaching Awards, and a Sloan Fellowship.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-xs-12">
@@ -252,7 +275,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Eloquent Labs, Simon Fraser University</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
@@ -262,7 +285,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://msavva.github.io/">Manolis Savva</a>
-      <h6>Simon Fraser University, Facebook AI Research</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
