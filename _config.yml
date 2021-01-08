@@ -1,0 +1,9 @@
+title: ScanNet Indoor Scene Understanding
+email: manolis.savva@gmail.com
+description: Website for the ScanNet Indoor Scene Understanding CVPR 2019 Workshop
+  ---
+baseurl: "/cvpr2019workshop" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
