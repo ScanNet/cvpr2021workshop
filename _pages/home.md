@@ -73,7 +73,6 @@ acknowledgements: ""
       <h3>New This Year - Data Efficient Challenge!</h3>
     <p>In the data efficient challenge, training is conducted on  Limited Scene Reconstructions (LR) or Limited Scene Annotations (LA), for the tasks of 3D Semantic Segmentation, Instance Segmentation and Object Detection. 
     </p>
-    
     <p>
       For each task, challenge participants are provided with prepared training, validation, and test datasets, and automated evaluation scripts.
       In addition to the public train-val-test split, benchmarking is done on a hidden test set whose raw data can be downloaded without annotations; in order to participate in the benchmark, the predictions on the hidden test set are uploaded to the evaluation server, where they are evaluated.
