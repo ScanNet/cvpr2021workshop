@@ -70,7 +70,7 @@ acknowledgements: ""
         <strong>Scene type classification</strong>: classification of entire 3D room into a scene type
       </li>
     </ul>
-      <h3>New This Year - Data Efficient Challenge!</h3>
+      <h3 style="color:orange;font-weight:800">New This Year - Data Efficient Challenge!</h3>
     <p>In the data efficient challenge, training is conducted on  Limited Scene Reconstructions (LR) or Limited Scene Annotations (LA), for the tasks of 3D Semantic Segmentation, Instance Segmentation and Object Detection. 
     </p>
     <p>
