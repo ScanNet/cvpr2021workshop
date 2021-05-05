@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>3rd ScanNet Indoor Scene Understanding Challenge</h1></center>
     <center><h2>CVPR 2021 Workshop</h2></center>
-    <center>June 20, 2021</center>
+    <center><p style="color:darkblue;font-weight:100">June 20, 2021</p></center>
   </div>
 </div>
 
@@ -111,12 +111,14 @@ acknowledgements: ""
   </div> -->
 </div>
 
+<!-- 
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
 </div>
-
+ -->
+ 
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
