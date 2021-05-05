@@ -139,6 +139,7 @@ acknowledgements: ""
   </div>
 </div><br>
 
+<!-- 
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Posters</h2>
@@ -151,6 +152,7 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+-->
 
 <div class="row">
   <div class="col-xs-12">
