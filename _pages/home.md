@@ -161,59 +161,47 @@ acknowledgements: ""
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
-        <tr><td>TBD</td><td>TBD</td></tr>
-        <!-- <tr>
+        <tr><td></td><td>PDT</td><td>CEST</td></tr>
+        <tr>
           <td>Welcome and Introduction</td>
-          <td>1:50pm - 2:00pm</td>
+          <td>8:50am - 9:00am</td><td>5:50pm - 6:00pm</td>
         </tr>
         <tr>
-          <td>Implicit Neural Representations: From Objects to 3D Scenes (Andreas Geiger)</td>
-          <td>2:00pm - 2:30pm</td>
+          <td>Invited Speaker 1</td>
+          <td>9:00am - 9:30am</td><td>6:00pm - 6:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: KPConv (Hugues Thomas) </td>
-          <td>2:30pm - 2:40pm</td>
+          <td>Invited Speaker 2</td>
+          <td>9:30am - 10:00am</td><td>6:30pm - 7:00pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: SparseConvNet (Benjamin Graham) </td>
-          <td>2:40pm - 2:50pm</td>
+          <td>Winner Talk 1 </td>
+          <td>10:00am - 10:10am</td><td>7:00pm - 7:10pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: PointGroup (Li Jiang) </td>
-          <td>2:50pm - 3:00pm</td>
+          <td>Winner Talk 2 </td>
+          <td>10:10am - 10:20am</td><td>7:10pm - 7:20pm</td>
         </tr>
         <tr>
-          <td>Break </td>
-          <td>3:00pm - 3:15pm</td>
+          <td>Winner Talk 3 </td>
+          <td>10:20am - 10:30am</td><td>7:20pm - 7:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: Sparse 3D Perception (Chris Choy) </td>
-          <td>3:15pm - 3:25pm</td>
+          <td>Invited Speaker 3</td>
+          <td>10:30am - 11:00am</td><td>7:30pm - 8:00pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: 3D-MPA (Francis Engelmann) </td>
-          <td>3:25pm - 3:35pm</td>
+          <td>Invited Speaker 4</td>
+          <td>11:00am - 11:30am</td><td>8:00pm - 8:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: OccuSeg (Tian Zheng) </td>
-          <td>3:35pm - 3:45pm</td>
-        </tr>
-        <tr>
-          <td>Break </td>
-          <td>3:45pm - 4:00pm</td>
-        </tr>
-        <tr>
-          <td>CVPR is a Contemporary Art Exhibition (Yasutaka Furukawa)</td>
-          <td>4:00pm - 4:30pm</td>
-        </tr>
-        <tr>
-          <td>Semantic Scene Reconstruction from RGBD Scans (Thomas Funkhouser)</td>
-          <td>4:30pm - 5:00pm</td>
+          <td>Invited Speaker 5</td>
+          <td>11:30am - 12:00pm</td><td>8:30pm - 9:00pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>5:00pm - 5:30pm</td>
-        </tr> -->
+          <td>12:00pm - 12:30pm</td><td>9:00pm - 9:30pm</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -228,9 +216,9 @@ acknowledgements: ""
 
 <!-- <div class="row">
   <div class="col-md-12">
-    <a href="http://www.cvlibs.net"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas_geiger.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.vision.rwth-aachen.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/bastian_leibe.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.cvlibs.net">Andreas Geiger</a></b> is professor at the University of Tübingen and group leader at the Max Planck Institute for Intelligent Systems. Prior to this, he was a visiting professor at ETH Zürich and a research scientist at MPI-IS. He studied at KIT, EPFL and MIT and received his PhD degree in 2013 from the KIT. His research interests are at the intersection of 3D reconstruction, motion estimation, scene understanding and sensory-motor control. He maintains the KITTI vision benchmark.
+      <b><a href="https://www.vision.rwth-aachen.de/">Bastian Leibe</a></b> is a full Professor of Computer Science at RWTH Aachen University, Germany, where he leads the Computer Vision group. He holds an MSc degree from the Georgia Institute of Technology (1999), a Diploma degree from the University of Stuttgart (2001), and a PhD from ETH Zurich (2004), all three in Computer Science. His main research interests are in computer vision and machine learning for dynamic visual scene understanding, encompassing object recognition, tracking, segmentation, and 3D reconstruction. He has published over 150 articles in peer-reviewed journals and conferences. Over the years, he has received several awards for his research work, including the CVPR Best Paper Award in 2007, the DAGM Olympus Prize in 2008, and the U.V. Helava Award in 2012. In 2012, he was awarded a European Research Council (ERC) Starting Grant, and in 2017 an ERC Consolidator Grant. He has been Program Chair for ECCV 2016 and Area Chair and program committee member for all major computer vision conferences. 
     </p>
   </div>
 </div><br>
