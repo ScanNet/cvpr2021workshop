@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>3rd ScanNet Indoor Scene Understanding Challenge</h1></center>
     <center><h2>CVPR 2021 Workshop</h2></center>
-    <center><p style="color:darkblue;font-weight:100">June 20, 2021</p></center>
+    <center><h3 style="color:darkblue;font-weight:100">June 20, 2021</h3></center>
   </div>
 </div>
 
