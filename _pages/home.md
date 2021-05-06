@@ -229,9 +229,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.sfu.ca/~furukawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/yasu_furukawa.png" | prepend:site.baseurl }}"></a>
+    <a href="http://charlesrqi.com"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/charles_qi.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.sfu.ca/~furukawa/">Yasutaka Furukawa</a></b> is an associate professor of Computing Science at Simon Fraser University. Prior to SFU, he was an assistant professor at Washington University in St. Louis. Before WUSTL, he was a software engineer at Google. Before Google, he was a post-doctoral research associate at University of Washington. He worked with Prof. Seitz and Prof. Curless at University of Washington, and Rick Szeliski at Facebook (was at Microsoft Research). He completed his Ph.D. under the supervision of Prof. Ponce at Computer Science Department of University of Illinois at Urbana-Champaign in May 2008.
+      <b><a href="http://charlesrqi.com">Charles Qi</a></b> is a research scientist at Waymo LLC. Previously, he was a postdoctoral researcher at Facebook AI Research (FAIR) and  received his Ph.D. from Stanford University (Stanford AI Lab and Geometric Computation Group), advised by Professor Leonidas J. Guibas. Prior to Stanford, he received his B.Eng. from Tsinghua University. His research focuses on deep learning, computer vision and 3D. He has developed novel deep learning architectures for 3D data (point clouds, volumetric grids and multi-view images) that have wide applications in 3D object classification, object part segmentation, semantic scene parsing, scene flow estimation and 3D reconstruction; such deep architectures have been well adopted by both academic and industrial groups across the world. 
     </p>
   </div>
 </div><br>
