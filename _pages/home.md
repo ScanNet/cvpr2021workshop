@@ -218,7 +218,7 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-md-12">
     <a href="https://www.vision.rwth-aachen.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/bastian_leibe.png" | prepend:site.baseurl }}"></a>
     <p>
@@ -238,15 +238,12 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.princeton.edu/~funk/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/tom_funkhouser.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.luvision.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lu_fang.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a></b> is a senior research scientist at Google and the David
-M. Siegel Professor of Computer Science, Emeritus, at Princeton University.  He received a PhD in computer science from UC Berkeley in
-1993 and was a member of the technical staff at Bell Labs until 1997 before joining the faculty at Princeton.  For most of his career, he focused on research problems in computer graphics, including foundational work on 3D shape retrieval, analysis, and modeling.   His
-most recent research has focused on 3D scene understanding in computer vision. He has published more than 100 research papers and received several awards, including the ACM SIGGRAPH Computer Graphics Achievement Award, ACM SIGGRAPH Academy, ACM Fellow, NSF Career Award, Emerson Electric, E. Lawrence Keyes Faculty Advancement Award, Google Faculty Research Awards, University Council Excellence in Teaching Awards, and a Sloan Fellowship.
+      <b><a href="http://www.luvision.net/">Lu Fang</a></b> is an Associate Professor at Tsinghua University. She received her Ph.D from the Hong Kong University of Science and Technology in 2011, and her B.E. from Univ. of Science and Technology of China in 2007, respectively. Prof. Fang's research interests include computational imaging and 3D vision. Prof. Fang's research has been recognized by the NSFC Excellent Young Scholar Award, Multimedia Rising Star Award in ICME 2019, Best Student Paper Award in ICME 2017, and more. Prof. Fang is an currently IEEE Senior Member, and serving as an Associate Editor for IEEE TMM and TCSVT.
     </p>
   </div>
-</div><br> -->
+</div><br>
 
 <div class="row">
   <div class="col-xs-12">
