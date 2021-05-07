@@ -246,6 +246,15 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
+  <div class="col-md-12">
+    <a href="https://vcl.ucsd.edu/~sxie/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/saining_xie.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://vcl.ucsd.edu/~sxie/">Saining Xie</a></b> is a research scientist at Facebook AI Research (FAIR). He received a PhD in computer science from the University of California San Diego in 2018, advised by Zhuowen Tu. Prior to that, he received his B.S. from Shanghai Jiao Tong University in 2013. He has broad research interests in computer vision and deep learning, with a focus on representation learning for visual recognition in both 2D and 3D. He is a recipient of the Google Ph.D. fellowship in 2017 and the Marr Prize Honorable Mention award at ICCV 2015.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
