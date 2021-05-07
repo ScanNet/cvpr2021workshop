@@ -195,7 +195,7 @@ acknowledgements: ""
           <td>10:30am - 11:00am</td><td>7:30pm - 8:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 4</td>
+          <td>Invited Speaker 4</td> <!--  Saining Xie: Transfer3D: Learning Transferrable Representations of 3D Scenes -->
           <td>11:00am - 11:30am</td><td>8:00pm - 8:30pm</td>
         </tr>
         <tr>
