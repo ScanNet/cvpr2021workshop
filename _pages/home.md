@@ -220,6 +220,15 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
+    <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/niloy_mitra.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a></b> is a Professor of Geometry Processing in the Department of Computer Science, University College London (UCL). He received his MS and PhD in Electrical Engineering from Stanford University under the guidance of Leonidas Guibas and Marc Levoy, and was a postdoctoral scholar with Helmut Pottmann at Technical University Vienna. His research interests include shape analysis, computational design and fabrication, and geometry processing. Niloy received the 2013 ACM Siggraph Significant New Researcher Award for "his outstanding work in discovery and use of structure and function in 3D objects" (UCL press release), the BCS Roger Needham award (BCS press release) in 2015, and the Eurographics Outstanding Technical Contributions Award in 2019. He received the ERC Starting Grant on SmartGeometry in 2013. His work has twice been featured as research highlights in the Communications of the ACM, twice been selected by ACM Siggraph/Siggraph Asia (both in 2017) for press release as research highlight.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
     <a href="https://www.vision.rwth-aachen.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/bastian_leibe.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.vision.rwth-aachen.de/">Bastian Leibe</a></b> is a full Professor of Computer Science at RWTH Aachen University, Germany, where he leads the Computer Vision group. He holds an MSc degree from the Georgia Institute of Technology (1999), a Diploma degree from the University of Stuttgart (2001), and a PhD from ETH Zurich (2004), all three in Computer Science. His main research interests are in computer vision and machine learning for dynamic visual scene understanding, encompassing object recognition, tracking, segmentation, and 3D reconstruction. He has published over 150 articles in peer-reviewed journals and conferences. Over the years, he has received several awards for his research work, including the CVPR Best Paper Award in 2007, the DAGM Olympus Prize in 2008, and the U.V. Helava Award in 2012. In 2012, he was awarded a European Research Council (ERC) Starting Grant, and in 2017 an ERC Consolidator Grant. He has been Program Chair for ECCV 2016 and Area Chair and program committee member for all major computer vision conferences. 
