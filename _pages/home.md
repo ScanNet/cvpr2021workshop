@@ -172,7 +172,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Neural Surface Representations (Niloy Mitra)</td>
-          <td>9:00am - 9:30am</td><td>6:00pm - 7:00pm</td>
+          <td>9:00am - 10:00am</td><td>6:00pm - 7:00pm</td>
         </tr>
         <tr>
           <td>Winner Talk: Point Cloud Instance Segmentation using Probabilistic Embeddings (Biao Zhang)</td>
