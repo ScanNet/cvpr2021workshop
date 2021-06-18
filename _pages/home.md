@@ -171,35 +171,31 @@ acknowledgements: ""
           <td>8:50am - 9:00am</td><td>5:50pm - 6:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 1</td>
-          <td>9:00am - 9:30am</td><td>6:00pm - 6:30pm</td>
+          <td>Neural Surface Representations (Niloy Mitra)</td>
+          <td>9:00am - 9:30am</td><td>6:00pm - 7:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 2</td>
-          <td>9:30am - 10:00am</td><td>6:30pm - 7:00pm</td>
-        </tr>
-        <tr>
-          <td>Winner Talk 1 </td>
+          <td>Winner Talk: Point Cloud Instance Segmentation using Probabilistic Embeddings (Biao Zhang)</td>
           <td>10:00am - 10:10am</td><td>7:00pm - 7:10pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 </td>
+          <td>Winner Talk: BPNet (Wenbo Hu) </td>
           <td>10:10am - 10:20am</td><td>7:10pm - 7:20pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 </td>
+          <td>Winner Talk: Virtual MVFusion (Abhijit Kundu) </td>
           <td>10:20am - 10:30am</td><td>7:20pm - 7:30pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 3</td>
+          <td>Offboard 3D Object Detection From Point Cloud Sequences (Charles Qi) </td>
           <td>10:30am - 11:00am</td><td>7:30pm - 8:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 4</td> <!--  Saining Xie: Transfer3D: Learning Transferrable Representations of 3D Scenes -->
+          <td>Towards Gigapixel 3D Imaging (Lu Fang) </td>
           <td>11:00am - 11:30am</td><td>8:00pm - 8:30pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker 5</td>
+          <td>Transfer3D: Learning Transferrable Representations of 3D Scenes (Saining Xie)</td> 
           <td>11:30am - 12:00pm</td><td>8:30pm - 9:00pm</td>
         </tr>
         <tr>
