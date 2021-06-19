@@ -222,7 +222,7 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-
+  <!-- 
 <div class="row">
   <div class="col-md-12">
     <a href="https://www.vision.rwth-aachen.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/bastian_leibe.png" | prepend:site.baseurl }}"></a>
@@ -231,7 +231,7 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-
+-->
 <div class="row">
   <div class="col-md-12">
     <a href="http://charlesrqi.com"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/charles_qi.png" | prepend:site.baseurl }}"></a>
