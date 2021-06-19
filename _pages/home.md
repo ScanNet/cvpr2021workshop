@@ -21,11 +21,11 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <br>
+<br>
   <center>
-  <h1 style="color:blue"><a href="https://youtu.be/S7wm806JQ1M">Join Us Here: Live Stream</a></h1>
+  <h1 style="color:blue"><a href="https://youtu.be/jr_bKmh6YUY">Join Us Here: Live Stream</a></h1>
   </center>
-<br> -->
+<br>
 
 <div class="row" id="intro">
   <div class="col-md-12">
