@@ -223,16 +223,6 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-  <!-- 
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.vision.rwth-aachen.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/bastian_leibe.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.vision.rwth-aachen.de/">Bastian Leibe</a></b> is a full Professor of Computer Science at RWTH Aachen University, Germany, where he leads the Computer Vision group. He holds an MSc degree from the Georgia Institute of Technology (1999), a Diploma degree from the University of Stuttgart (2001), and a PhD from ETH Zurich (2004), all three in Computer Science. His main research interests are in computer vision and machine learning for dynamic visual scene understanding, encompassing object recognition, tracking, segmentation, and 3D reconstruction. He has published over 150 articles in peer-reviewed journals and conferences. Over the years, he has received several awards for his research work, including the CVPR Best Paper Award in 2007, the DAGM Olympus Prize in 2008, and the U.V. Helava Award in 2012. In 2012, he was awarded a European Research Council (ERC) Starting Grant, and in 2017 an ERC Consolidator Grant. He has been Program Chair for ECCV 2016 and Area Chair and program committee member for all major computer vision conferences. 
-    </p>
-  </div>
-</div><br>
--->
 <div class="row">
   <div class="col-md-12">
     <a href="http://charlesrqi.com"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/charles_qi.png" | prepend:site.baseurl }}"></a>
