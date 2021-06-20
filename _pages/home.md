@@ -119,12 +119,13 @@ acknowledgements: ""
 </div>
  -->
  
+<!-- 
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
         <tr><td>TBD</td><td>TBD</td></tr>
-        <!-- <tr>
+        <tr>
           <td>Poster Submission Deadline</td>
           <td>May 20 2020</td>
         </tr>
@@ -135,12 +136,12 @@ acknowledgements: ""
         <tr>
           <td>Workshop Date</td>
           <td>June 19 2020</td>
-        </tr> -->
+        </tr>
       </tbody>
     </table>
   </div>
 </div><br>
-
+ -->
 <!-- 
 <div class="row" id="cfp">
   <div class="col-xs-12">
